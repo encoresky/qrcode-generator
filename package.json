@@ -1,0 +1,30 @@
+{
+  "name": "qrcode-generator",
+  "version": "1.0.0",
+  "description": "Easy QR Code generator for React ",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukesh-est/qrcode-generator.git"
+  },
+  "keywords": [
+    "react",
+    "qr",
+    "qr-code",
+    "qrcode",
+    "qrcode-generator",
+    "generator"
+  ],
+  "author": "Encoresky Technology",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mukesh-est/qrcode-generator/issues"
+  },
+  "homepage": "https://github.com/mukesh-est/qrcode-generator#readme"
+}
