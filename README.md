@@ -1,4 +1,4 @@
-# Qrcode-Generator
+# React-Qrcode-Generator
 
 Provides an easy and simple way to generate QR code (such as text, url) via for mobile and website.
 

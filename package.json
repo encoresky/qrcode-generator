@@ -1,5 +1,5 @@
 {
-  "name": "qrcode-generator",
+  "name": "react-qrcode-generator",
   "version": "1.0.0",
   "description": "Easy QR Code generator for React ",
   "main": "index.js",
@@ -19,7 +19,8 @@
     "qr-code",
     "qrcode",
     "qrcode-generator",
-    "generator"
+    "generator",
+    "react-qrcode-generator"
   ],
   "author": "Encoresky Technology",
   "license": "MIT",
