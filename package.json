@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mukesh-est/qrcode-generator.git"
+    "url": "git+https://github.com/encoresky/qrcode-generator.git"
   },
   "keywords": [
     "react",
@@ -25,7 +25,7 @@
   "author": "Encoresky Technology",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mukesh-est/qrcode-generator/issues"
+    "url": "https://github.com/encoresky/qrcode-generator/issues"
   },
-  "homepage": "https://github.com/mukesh-est/qrcode-generator#readme"
+  "homepage": "https://github.com/encoresky/qrcode-generator#readme"
 }

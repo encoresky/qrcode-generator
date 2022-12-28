@@ -9,8 +9,8 @@ const generator = (img, props) => {
 exports.qrcodeGenerator = ({
   value,
   size = "180x180",
-  qrAlt = "QR Code Image",
-  title,
+  qrAlt = "React easy QR image",
+  title = "React easy QR generator",
   showQrId,
 }) => {
   let img = document.createElement("img");
