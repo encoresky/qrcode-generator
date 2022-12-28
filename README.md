@@ -23,7 +23,7 @@ yarn add react-easy-qrcode-generator # yarn
 
 ## 📱 Preview
 
-(https://raw.githubusercontent.com/encoresky/qrcode-generator/main/demo-image.png)
+![Web](https://raw.githubusercontent.com/encoresky/qrcode-generator/main/demo-image.png)
 
 ## 📦 Usage
 
