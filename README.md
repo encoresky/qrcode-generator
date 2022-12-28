@@ -2,7 +2,7 @@
 
 Provides an easy and simple way to generate QR code (such as text, url) via for mobile and website.
 
-It is based on [QR Server API](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/share).
+It is based on [QR Server API](https://goqr.me/api/doc/create-qr-code/).
 
 ## 💡 Features
 
