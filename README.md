@@ -65,14 +65,13 @@ Takes the following parameters:
 
 | Parameter  | Type     | Default value             | Description  |
 | :--------- | :------- | :------------------------ | :----------- |
-| `value`    | `string` | `null`    | **Required** |
-| `size`     | `string` | `180x180`                 | **Options**  |
-| `title`    | `string` | `React easy QR generator` | **Options**  |
-| `qrAlt`    | `string` | `React easy QR image`     | **Options**  |
+| `value`    | `string` | `null`                    | **Required** |
+| `size`     | `string` | `180x180`                 | **Optional**  |
+| `title`    | `string` | `React easy QR generator` | **Optional**  |
+| `qrAlt`    | `string` | `React easy QR image`     | **Optional**  |
 | `showQrId` | `string` | `null`                    | **Required** |
-| `color`    | `string` | `0-0-0`                   | **Options**  |
-| `bgcolor`  | `string` | `255-255-255`             | **Options**  |
-|            |          | `Valid examples for color and bgcolor: 255-0-0 (red),f00 (red), FF0000 (red),              0-255-0 (green), 0f0 (green), 00ff00 (green), 0-0-255 (blue), 00f (blue), 0000ff (blue), 556B2F (DarkOliveGreen)` |  |   
+| `color`    | `string` | `0-0-0`                   | **Optional**  |
+| `bgcolor`  | `string` | `255-255-255` Valid examples for color and bgcolor: 255-0-0 (red),f00 (red), FF0000 (red),              0-255-0 (green), 0f0 (green), 00ff00 (green), 0-0-255 (blue), 00f (blue), 0000ff (blue), 556B2F (DarkOliveGreen)             | **Optional**  | 
 
 ## 📜 License
 
