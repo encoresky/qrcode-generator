@@ -1,6 +1,6 @@
 const generator = (img, props) => {
   if (props.value) {
-    img.src = `https://api.qrserver.com/v1/create-qr-code/?data=${props.value}&amp;size=${props.size}&amp;color=${props.color}&amp;bgcolor=${props.bgcolor}`;
+    img.src = `https://api.qrserver.com/v1/create-qr-code/?data=${props.value}&size=${props.size}&color=${props.color}&bgcolor=${props.bgcolor}`;
     img.alt = props.qrAlt;
     img.title = props.title;
   }
