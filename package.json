@@ -1,6 +1,6 @@
 {
   "name": "react-easy-qrcode-generator",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Easy QR Code generator for React ",
   "main": "index.js",
   "files": [
