@@ -65,7 +65,6 @@ Takes the following parameters:
 
 | Parameter  | Type     | Default value             | Description  |
 | :--------- | :------- | :------------------------ | :----------- |
-
 | `value`    | `string` | `null`                    | **Required** |
 | `size`     | `string` | `180x180`                 | **Optional**  |
 | `title`    | `string` | `React easy QR generator` | **Optional**  |
